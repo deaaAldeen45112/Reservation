@@ -1,0 +1,37 @@
+<p>edit-order works!</p>
+
+<form [formGroup]='editOrder' (submit)="UpdateOrder()">
+
+    <mat-form-field>
+        <input matInput formControlName="accessStatus" style=
+        "font-size: x-large;" placeholder="accessStatus"
+        [(ngModel)]="list.access_Status"
+        >
+        </mat-form-field>
+       
+    
+        <mat-form-field>
+            <input matInput formControlName="paymentStatus" style=
+            "font-size: x-large;" placeholder="paymentStatus"
+            [(ngModel)]="list.payment_Status"
+            >
+            </mat-form-field>
+            
+    
+        <mat-form-field>
+            <input matInput formControlName="waiterId" style=
+            "font-size: x-large;" placeholder="waiterId"
+            [(ngModel)]="list.waiter_Id"
+            >
+            </mat-form-field>
+            
+
+            
+        <mat-form-field>
+            <input matInput formControlName="customerId" style=
+            "font-size: x-large;" placeholder="customerId"
+            [(ngModel)]="list.customer_Id"
+            >
+            </mat-form-field>
+
+    <input type="submit" />

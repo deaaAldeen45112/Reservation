@@ -1,0 +1,36 @@
+.sent-message h2, .loading h2
+{
+    font-size: 25px;
+    color: rgb(155, 36, 36);
+    font-family: "Playfair Display", serif;
+}
+.form-control[readonly], fieldset[disabled] .form-control {
+    background-color: white;
+    color: black;
+    cursor: not-allowed;
+}
+.form-group .form-control{
+    color:black;
+}
+#book{
+    margin: 0 10 10px 8px;
+    border: 2px solid #cda45e;
+    color: #000;
+    padding: 8px 25px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: 0.3s;
+  }
+  #close{
+    margin: 0 10 10px 17px;
+    border: 2px solid #cda45e;
+    color: #000;
+    padding: 8px 11px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: 0.3s;
+  }

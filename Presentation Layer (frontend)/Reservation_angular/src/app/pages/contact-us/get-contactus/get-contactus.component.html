@@ -1,0 +1,50 @@
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+    <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>
+<div class=" content">
+    <div class=" row">
+        <div class=" col-md-12">
+            <div class=" col-md-12">
+                <div class=" card card-plain">
+                    <div class=" card-header">
+                        <div class="flex-container">
+                            <h4 class=" card-title">Resturant Tables</h4>
+                        </div>
+                        <div class="filter-container">
+                            <h4>Filter :</h4>
+                            <div class="filter">
+                                <label>Filter by Subject</label>
+                                <input type="text" #subject [(ngModel)]="subjectFilter" />
+                                <button (click)="Filter(subject.value)" class=" btn btn-fill btn-danger"
+                                    id="search">Search</button>
+                                <button (click)="Clear()" class=" btn btn-fill btn-danger" id="search">Clear</button>
+                            </div>
+                        </div>
+                        <div class=" card-body">
+                            <div class=" table-responsive">
+                                <table class=" table tablesorter" id="">
+                                    <thead class=" text-primary">
+                                        <tr>
+                                            <th>id</th>
+                                            <th>email</th>
+                                            <th>subject</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr *ngFor="let data of contactUsArr; let i = index">
+                                            <td>{{i+1}}</td>
+                                            <td>{{data.email}}</td>
+                                            <td>{{data.subject}}</td>
+                                            <td><button (click)="view(data)" class="btn btn-fill btn-danger">View</button>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

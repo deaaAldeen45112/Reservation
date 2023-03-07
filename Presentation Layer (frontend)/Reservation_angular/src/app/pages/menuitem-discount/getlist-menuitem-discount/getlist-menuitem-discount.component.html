@@ -1,0 +1,136 @@
+<!--
+
+<div style="display:flex; flex-direction: column;" >
+    <p>getlist-menuitem works!</p>
+    
+    <div class="row" style="display:flex; flex-direction: column;     margin-right: 0px;
+    margin-left: 0px;">
+      <div class="col">
+        <div ngbDropdown class="d-inline-block">
+          <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>Toggle dropdown</button>
+          <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+            <button ngbDropdownItem>Action - 1</button>
+            <button ngbDropdownItem>Another Action</button>
+            <button ngbDropdownItem>Something else is here</button>
+          </div>
+        </div>
+      </div>
+      
+    
+    
+    
+    
+    <input type="search" id="form1" [formControl]="menuItemId"  class="form-control" placeholder="menuItemId" aria-label="Search" />
+    
+   
+    <div  style="display: flex;
+    justify-self: center;
+    flex-direction: row;
+    justify-content: center;">
+    
+      <button class="btn btn-primary"  style="display: block; justify-self: center; width: 100px;" (click)="search()">search</button>
+    
+    </div>
+      <button type="button" class="btn btn-primary" style="width: 100px;" routerLink='../add'>insert</button>
+    <table class="table table">
+    
+        <thead class="thead">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+          </tr>
+        </thead>
+        <tbody >
+          <tr *ngFor="let item of list">
+            <th scope="row"></th>
+            <td>{{item.discount_Id}}</td>
+            <td>{{item. discount_Rate}}</td>
+            <td>{{item.menu_Item_Id}}</td>
+            <a class="btn btn-success" [routerLink]="['../show',item.discount_Id]" role="button">show</a>
+            <a  class="btn btn-primary" [routerLink]="['../edit',item.discount_Id]" role="button">edit</a>
+            <button type="button" class="btn btn-danger" (click)="DeleteMenuCategory(item.discount_Id)">delete</button>  
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+
+-->
+
+
+
+
+
+
+    
+    <div class=" content">
+      <div class=" row">
+        <div class=" col-md-12">
+          <div class=" card">
+            <div class=" card-header"><h5 class=" title">Search Box</h5></div>
+            <div class=" card-body">
+              <form>
+                
+                <div class=" row">
+                  <div class=" col-md-6 pr-md-1">
+                    <div class=" form-group">
+                      <label>MenuItemId</label>
+                      <input
+                      [formControl]="menuItemId"
+                        class="form-control"
+                        placeholder="MenuItemId"
+                        type="text"
+                      
+                      />
+                    </div>
+                  </div>
+                
+                </div>
+               
+              </form>
+            </div>
+            <div class=" card-footer">
+              <button class=" btn btn-fill btn-danger" (click)="search()"type="submit">search</button>
+            </div>
+          </div>
+        </div>
+        </div>
+
+        <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+        <div class=" row">
+          <div class=" col-md-12">
+            <div class=" card">
+              <div class=" card-header">
+                <h4 class=" card-title">Discount Table</h4>
+              </div>
+              <div class=" card-body">
+                <div class=" table-responsive">
+                  <table class=" table tablesorter" id="">
+                    <thead class=" text-primary">
+                      <tr>
+  
+                        <th>DiscountRate</th>
+                        <th>MenuItemId</th>
+                        <th>crud</th>
+                   
+                       
+                      </tr>
+                    </thead>
+                    <tbody>
+                     
+                      <tr *ngFor="let item of list">
+                        <td>{{item. discount_Rate}}</td>
+                        <td>{{item. menu_Item_Id}}</td>
+                        <a  class="btn btn-primary" [routerLink]="['../edit',item.discount_Id]" role="button">edit</a>
+                        <button type="button" class="btn btn-danger"  (click)="DeleteMenuItemDiscount(item.discount_Id)">delete</button>        
+                      </tr>
+                     
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>

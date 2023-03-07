@@ -1,0 +1,72 @@
+
+
+<!--
+
+
+
+<p>add-menuitem-discount works!</p>
+
+
+<form [formGroup]='insertMenuItemDiscount'   (submit)="InsertMenuDiscount()">
+
+<mat-form-field>
+    <input matInput formControlName="rate" style=
+    "font-size: x-large;" placeholder="rate">
+    </mat-form-field>
+   
+
+    <mat-form-field>
+        <input matInput formControlName="menuItemId" style=
+        "font-size: x-large;" placeholder="menuItemId">
+        </mat-form-field>
+       
+<input type="submit" />
+
+
+-->
+
+
+
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header"><h5 class=" title">Add Discount</h5></div>
+          <div class=" card-body">
+            <form [formGroup]='insertMenuItemDiscount'  >
+              <div class=" row">
+                <div class=" col-md-6 pr-md-1">
+                  <div class=" form-group">
+                    <label>Rate</label>
+                    <input
+                    formControlName="rate"
+                      class=" form-control"
+                      placeholder="Rate"
+                      type="text"
+                   
+                    />
+                  </div>
+                </div>
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label>MenuItemId</label>
+                    <input
+                    formControlName="menuItemId"
+                      class=" form-control"
+                      placeholder="MenuItemId"
+                      type="text"
+            
+                    />
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class=" card-footer">
+            <button class=" btn btn-fill btn-danger" (click)="InsertMenuDiscount()"type="submit">add</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

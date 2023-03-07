@@ -1,0 +1,53 @@
+
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+         
+  
+         
+        </div>
+      </div>
+      </div>
+  
+     
+      <div class=" row">
+        <div class=" col-md-12">
+          <div class=" card">
+            <div class=" card-header">
+              <h4 class=" card-title">Order Table</h4>
+            </div>
+            <div class=" card-body">
+              <div class=" table-responsive">
+                <table class=" table tablesorter" id="">
+                  <thead class=" text-primary">
+                    <tr>
+                      <th>index</th>
+                      <th>OrderPrice</th>
+                      <th>SccessStatus</th>
+                      <th>WaiterId</th>
+                      <th>PaymentStatus</th>
+                      <th>OrderCreateDate</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let item of list; let i=index">
+                      <td>{{i+1}}</td>
+                      <td>{{item.order_price}}</td>
+                      <td>{{item.access_Status}}</td>
+                      <td>{{item.waiter_Id}}</td>
+                      <td>{{item.payment_Status}}</td>
+                      <td>{{item.order_Createdat|date}}</td>
+                     </tr>
+  
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+    </div>
+  
+  

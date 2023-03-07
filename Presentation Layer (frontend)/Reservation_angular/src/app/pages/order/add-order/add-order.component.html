@@ -1,0 +1,28 @@
+<p>add-order works!</p>
+
+<form [formGroup]='insertOrder' (submit)="InsertOrder()">
+
+    <mat-form-field>
+        <input matInput formControlName="accessStatus" style=
+        "font-size: x-large;" placeholder="accessStatus">
+        </mat-form-field>
+       
+    
+        <mat-form-field>
+            <input matInput formControlName="paymentStatus" style=
+            "font-size: x-large;" placeholder="paymentStatus">
+            </mat-form-field>
+            
+    
+        <mat-form-field>
+            <input matInput formControlName="waiterId" style=
+            "font-size: x-large;" placeholder="waiterId">
+            </mat-form-field>
+            
+
+            
+        <mat-form-field>
+            <input matInput formControlName="customerId" style=
+            "font-size: x-large;" placeholder="customerId">
+            </mat-form-field>
+    <input type="submit" />

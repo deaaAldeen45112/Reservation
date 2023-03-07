@@ -1,0 +1,318 @@
+<div class=" content">
+  <div class=" row">
+    <div class=" col-md-6">
+      <div class=" card">
+        <div class=" card-header">
+          <h4 class=" card-title">Notifications Style</h4>
+        </div>
+        <div class=" card-body">
+        
+        
+        </div>
+      </div>
+    </div>
+    <div class=" col-md-6">
+      <div class=" card">
+        <div class=" card-header">
+          <h4 class=" card-title">Notification states</h4>
+        </div>
+        <div class=" card-body">
+         
+       
+             <button type="button" aria-hidden="true" class="close" data-dismiss="alert" aria-label="Close" (click)="staticAlertClosed6 = true">
+              <i class="tim-icons icon-simple-remove"></i>
+            </button>
+            <span>
+              <b> Warning - </b> This is a regular notification made
+              with ".alert-warning"
+            </span>
+          
+        </div>
+      </div>
+    </div>
+    <div class=" col-md-12">
+      <div class=" card">
+        <div class=" card-body">
+          <div class=" places-buttons">
+            <div class=" row">
+              <div class=" col-md-6 ml-auto mr-auto text-center">
+                <h4 class=" card-title">Notifications Places</h4>
+                <p class=" category">Click to view notifications</p>
+              </div>
+            </div>
+            <div class=" row">
+              <div class=" col-lg-8 ml-auto mr-auto">
+                <div class=" row">
+                  <div class=" col-md-4">
+                    <button
+                      class=" btn btn-danger btn-block"
+                    
+                    >
+                      Top Left
+                    </button>
+                  </div>
+                  <div class=" col-md-4">
+                    <button
+                      class=" btn btn-danger btn-block"
+                 
+                    >
+                      Top Center
+                    </button>
+                  </div>
+                  <div class=" col-md-4">
+                    <button
+                      class=" btn btn-danger btn-block"
+                 
+                    >
+                      Top Right
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class=" row">
+              <div class=" col-lg-8 ml-auto mr-auto">
+                <div class=" row">
+                  <div class=" col-md-4">
+                    <button
+                      class=" btn btn-danger btn-block"
+                     
+                    >
+                      Bottom Left
+                    </button>
+                  </div>
+                  <div class=" col-md-4">
+                    <button
+                      class=" btn btn-danger btn-block"
+                   
+                    >
+                      Bottom Center
+                    </button>
+                  </div>
+                  <div class=" col-md-4">
+                    <button
+                      class=" btn btn-danger btn-block"
+                   
+                    >
+                      Bottom Right
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!--
+
+<p>getlist-order works!</p>
+<p>getlist-menu-category works!</p>
+
+
+<div style="display:flex; flex-direction: column;" >
+    <p>getlist-menuitem works!</p>
+
+    <div class="row" style="display:flex; flex-direction: column;     margin-right: 0px;
+    margin-left: 0px;">
+      <div class="col">
+    
+      </div>
+      
+    
+    <button type="button" class="btn btn-primary" style="width: 100px;" (click)="UpdateAccessStatusByOrderId()">UpdateAccessStatusByOrderId</button>
+    <button type="button" class="btn btn-primary" style="width: 100px;" (click)="UpdatePaymentStatusByOrderId()">UpdatePaymentStatusByOrderId</button>
+    <button type="button" class="btn btn-primary" style="width: 100px;" (click)="UpdateWaiterIdByOrderId()">UpdateWaiterIdByOrderId</button>
+   
+    <div  style="display: flex;
+    justify-self: center;
+    flex-direction: row;
+    justify-content: center;">
+    
+   <mat-form-field appearance="fill">
+    <mat-label>from date</mat-label>
+    <input matInput [matDatepicker]="picker"  [(ngModel)]="from">
+    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+
+    <mat-form-field appearance="fill">
+    <mat-label>to date</mat-label>
+    <input matInput [matDatepicker]="picker1" [(ngModel)]="to">
+    <mat-datepicker-toggle matSuffix  [for]="picker1"></mat-datepicker-toggle>
+    <mat-datepicker  #picker1></mat-datepicker>
+  
+  </mat-form-field>
+
+    
+      <button class="btn btn-primary"  style="display: block; justify-self: center; width: 100px;" (click)="search()">search</button>
+    
+    </div>
+      <button type="button" class="btn btn-primary" style="width: 100px;" routerLink='../add'>insert</button>
+    <table class="table table">
+    
+        <thead class="thead">
+          <tr>
+            <th scope="col">order_Id</th>
+            <th scope="col">access_Status</th>
+            <th scope="col">customer_Id</th>
+            <th scope="col">waiter_Id</th>
+            <th scope="col">payment_Status</th>
+          </tr>
+        </thead>
+        <tbody >
+          <tr *ngFor="let item of list">
+    
+            <td>{{item.order_Id}}</td>
+            <td>{{item.access_Status}}</td>
+            <td>{{item.customer_Id}}</td>
+            <td>{{item.waiter_Id}}</td>
+            <td>{{item.payment_Status}}</td>
+            <a class="btn btn-success" [routerLink]="['../show',item.order_Id]" role="button">show</a>
+            <a  class="btn btn-primary" [routerLink]="['../edit',item.order_Id]" role="button">edit</a>
+            <button type="button" class="btn btn-danger" (click)="DeleteOrder(item.order_Id)">delete</button>  
+            <div ngbDropdown class="d-inline-block">
+              <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle ></button>
+              <div ngbDropdownMenu aria-labelledby="dropdownBasic1" >
+                <button ngbDropdownItem *ngFor="let it of listAvaWaiter" (click)="ChangeSortOrder(item.order_Id,it.waiter_Id)">{{it.waiter_Id}}</button>
+              </div>
+            </div>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+
+ -->
+
+
+
+<!--
+
+
+<div class=" content">
+  <div class=" row">
+    <div class=" col-md-12">
+      <div class=" card">
+        <div class=" card-header"><h5 class=" title">Search Box</h5></div>
+        <div class=" card-body">
+          <form>
+            
+   <mat-form-field appearance="fill">
+    <mat-label>from date</mat-label>
+    <input matInput [matDatepicker]="picker"  [(ngModel)]="from">
+    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+
+    <mat-form-field appearance="fill">
+    <mat-label>to date</mat-label>
+    <input matInput [matDatepicker]="picker1" [(ngModel)]="to">
+    <mat-datepicker-toggle matSuffix  [for]="picker1"></mat-datepicker-toggle>
+    <mat-datepicker  #picker1></mat-datepicker>
+  
+  </mat-form-field>
+
+           
+          </form>
+        </div>
+        <div class=" card-footer">
+          <button class=" btn btn-fill btn-danger"  (click)="search()"  type="submit">search</button>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+
+
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header">
+            <h4 class=" card-title">Order Table</h4>
+          </div>
+          <div class=" card-body">
+            <div class=" table-responsive">
+              <table class=" table tablesorter" id="">
+                <thead class=" text-primary">
+                  <tr>
+
+                    <th>OrderId</th>
+                    <th>SccessStatus</th>
+                    <th>CustomerId Date</th>
+                    <th>WaiterId</th>
+                    <th>PaymentStatus</th>
+                    <th>Crud</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of list">
+                    <td>{{item.order_Id}}</td>
+                    <td>{{item.access_Status}}</td>
+                    <td>{{item.customer_Id}}</td>
+                    <td>{{item.waiter_Id}}</td>
+                    <td>{{item.payment_Status}}</td>
+                    <a  class="btn btn-primary" [routerLink]="['../edit',item.menu_Item_Id]" role="button">edit</a>
+                    <button type="button" class="btn btn-danger"(click)="DeleteOrder(item.order_Id)">delete</button>   
+                    <button type="button" class="btn btn-primary" style="width: 100px;" (click)="UpdateAccessStatusByOrderId()">UpdateAccessStatus</button>
+                    <button type="button" class="btn btn-primary" style="width: 100px;" (click)="UpdatePaymentStatusByOrderId()">UpdatePaymentStatus</button>
+                    <button type="button" class="btn btn-primary" style="width: 100px;" (click)="UpdateWaiterIdByOrderId()">UpdateWaiterId</button>
+                    <div ngbDropdown class="d-inline-block">
+                      <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle ></button>
+                      <div ngbDropdownMenu aria-labelledby="dropdownBasic1" >
+                        <button ngbDropdownItem *ngFor="let it of listAvaWaiter" (click)="ChangeSortOrder(item.order_Id,it.waiter_Id)">{{it.waiter_Id}}</button>
+                      </div>
+                    </div>  
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </div>
+
+
+
+
+-->
+ 

@@ -1,0 +1,49 @@
+
+
+<!--
+<p>add-payment-method works!</p>
+
+<form [formGroup]='insertPaymentMethod' (submit)="InsertPaymentMethod()">
+
+    <mat-form-field>
+        <input matInput formControlName="name" style=
+        "font-size: x-large;" placeholder="name">
+        </mat-form-field>
+           
+    <input type="submit" />
+
+
+
+-->
+
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header"><h5 class=" title">Add PaymentMethod</h5> </div>
+          <div class=" card-body">
+            <form [formGroup]='insertPaymentMethod' >
+              <div class=" row">
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label>Name</label>
+                    <input
+                    formControlName="name"
+                      class=" form-control"
+                      placeholder="Name"
+                      type="text"
+                     
+                    />
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class=" card-footer">
+            <button class=" btn btn-fill btn-danger" type="submit" (click)="InsertPaymentMethod()">add</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

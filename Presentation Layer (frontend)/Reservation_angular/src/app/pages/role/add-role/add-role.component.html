@@ -1,0 +1,45 @@
+
+<!--
+  <p>add-role works!</p>
+        <mat-form-field>
+            <input matInput [formControl]="name" style=
+            "font-size: x-large;" placeholder="name">
+            </mat-form-field>
+       <input type="submit" (click)="InsertRole()" />
+
+
+
+-->
+
+
+<div class=" content">
+        <div class=" row">
+          <div class=" col-md-12">
+            <div class=" card">
+              <div class=" card-header"><h5 class=" title">Add Department</h5> </div>
+              <div class=" card-body">
+                <form>
+                  <div class=" row">
+                    <div class=" col-md-6 pl-md-1">
+                      <div class=" form-group">
+                        <label>Name</label>
+                        <input
+                        [formControl]="name"
+                          class=" form-control"
+                          placeholder="Name"
+                          type="text"
+                         
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </form>
+              </div>
+              <div class=" card-footer">
+                <button class=" btn btn-fill btn-danger" (click)="InsertRole()"type="submit">add</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+   

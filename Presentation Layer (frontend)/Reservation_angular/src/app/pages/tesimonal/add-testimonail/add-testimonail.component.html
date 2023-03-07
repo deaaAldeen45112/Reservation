@@ -1,0 +1,58 @@
+
+<!--
+<form [formGroup]='insertTestimonial' (submit)="InsertTestimonial()">
+    <mat-form-field>
+        <input matInput formControlName="testimonialMessage" style=
+        "font-size: x-large;" placeholder="testimonialMessage">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput formControlName="customerId" style=
+            "font-size: x-large;" placeholder="customerId">
+            </mat-form-field>
+           
+    <input type="submit" />
+-->
+
+
+
+    
+
+
+
+
+
+
+
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header"><h5 class=" title">Add Testimonal</h5> </div>
+          <div class=" card-body">
+            <form [formGroup]='insertTestimonial' >
+              <div class=" row">
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label>testimonialMessage</label>
+                    <input
+                    formControlName="testimonialMessage"
+                      class=" form-control"
+                      placeholder="testimonialMessage"
+                      type="text"
+                     
+                    />
+                  </div>
+                </div>
+               
+                  
+              </div>
+            </form>
+          </div>
+          <div class=" card-footer">
+            <button class=" btn btn-fill btn-danger" (click)="InsertTestimonial()"type="submit">add</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

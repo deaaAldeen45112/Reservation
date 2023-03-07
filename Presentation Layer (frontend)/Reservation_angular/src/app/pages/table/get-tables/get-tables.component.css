@@ -1,0 +1,11 @@
+#AddTable{
+    padding: 10px 15px;
+    margin-left: auto;
+}
+.flex-container {
+
+    display: flex;
+}
+.card .card-body {
+    margin-top: 15px;
+}

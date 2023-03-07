@@ -1,0 +1,121 @@
+
+<!--
+
+<p>edit-menuitem works!</p>
+
+
+
+<form [formGroup]='editMenuItemForm' (submit)="editMenuItem()">
+    <mat-form-field class="example-full-width">
+  
+    <input matInput formControlName="name" style=
+    "font-size: x-large;" placeholder="name"
+    [(ngModel)]="list[0].menu_Item_Name" >
+    </mat-form-field>
+    <mat-form-field class="example-full-width">
+        
+        <input matInput formControlName="price" style=
+        "font-size: x-large;" placeholder="price "
+        [(ngModel)]="list[0].menu_Item_Price"
+        >
+        </mat-form-field>
+    
+    
+   
+<input type="submit" />
+
+</form>
+
+
+
+-->
+
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header"><h5 class=" title">Edit MenuItem</h5></div>
+          <div class=" card-body">
+            <form [formGroup]='editMenuItemForm' >
+              <div class=" row">
+                <div class=" col-md-6 pr-md-1">
+                  <div class=" form-group">
+                    <label>Name</label>
+                    <input
+                    formControlName="name"
+                      class=" form-control"
+                      placeholder="Name"
+                      type="text"
+                      [(ngModel)]="list[0].menu_Item_Name"
+                      value="Mike"
+                    />
+                  </div>
+                </div>
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label>Price</label>
+                    <input
+                    formControlName="price"
+                    [(ngModel)]="list[0].menu_Item_Price"
+                      class=" form-control"
+                      placeholder="Price"
+                      type="text"
+                      value="Andrew"
+                    />
+                  </div>
+                </div>
+
+                
+                <div class=" col-md-6 pl-md-1">
+                    <div class=" form-group">
+                      <label>Content</label>
+                      <input
+                      [(ngModel)]="list[0].menu_Item_Content"
+                      formControlName="content"
+                        class=" form-control"
+                        placeholder="Content"
+                        type="text"
+                        value="Andrew"
+                      />
+                    </div>
+                  </div>
+
+                  <div class=" col-md-6 pl-md-1">
+                    <div class=" form-group">
+                      <label>Quantity</label>
+                      <input
+                      [(ngModel)]="list[0].menu_Item_Quantity"
+                      formControlName="quantity"
+                        class=" form-control"
+                        placeholder="Quantity"
+                        type="text"
+                        value="Andrew"
+                      />
+                    </div>
+                  </div>
+
+                  <div class=" col-md-6 pl-md-1">
+                    <div class=" form-group">
+                      <label>MenuId</label>
+                      <input
+                      [(ngModel)]="this.list[0].menu_Id"
+                      formControlName="menuId"
+                        class=" form-control"
+                        placeholder="MenuId"
+                        type="text"
+                     
+                      />
+                    </div>
+                  </div>
+
+              </div>
+            </form>
+          </div>
+          <div class=" card-footer">
+            <input class=" btn btn-fill btn-danger" (click)="editMenuItem()" type="submit" value="save">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

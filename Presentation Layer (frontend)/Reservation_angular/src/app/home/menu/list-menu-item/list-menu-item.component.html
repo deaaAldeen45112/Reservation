@@ -1,0 +1,113 @@
+<!-- ======= Menu Section ======= -->
+<section id="menu" class="menu section-bg">
+  <div class="container" >
+    <div class="section-title">
+      <h2>Menu</h2>
+      <p>Check Our Tasty Menu</p>
+    </div>
+    <div class="row" data-aos-delay="100">
+      <div class="col-lg-12 d-flex justify-content-center">
+        <ul id="menu-flters">
+          <li  (click)="getAllMenuItem()" class="filter-active">All</li>
+      
+          <li *ngFor="let item of listCategory" (click)="ChangeSortOrder(item)" class="filter-active">{{item.menu_Category_Name}}</li>
+        </ul>
+      </div>
+      <div class="formMenuItemSearch">
+        <input class="search" [formControl]="name" placeholder="name" style="border-top-left-radius: 50px;border-bottom-left-radius: 50px; border-left-color: rgb(205, 164, 94);" type="text">
+        <input class="search" [formControl]="price1"placeholder="from price" type="text">
+        <input class="search" [formControl]="price2"placeholder="to price" type="text">
+        <div class="radio">
+          <mat-list role="list" style="  height: 0 !important; padding:0 !important">
+            <mat-list-item role="listitem" style=" height: 0 !important; padding:0 !important" >
+
+                <mat-radio-button  style=" height: 0 !important; padding:0 !important ;background-color: #cda45e !important;color:#cda45e ;" class="" *ngFor="let x of seasons; let i = index" [checked]="i ==defaultSelected" [value]="i" (change)="selection = $event.value">
+             <span style="margin-right: 8px;">{{x}}</span>  
+               </mat-radio-button>
+            </mat-list-item>
+        </mat-list>
+        </div>
+        <button class="butsearch" (click)="search()">search</button>
+      </div>
+     
+    </div>
+
+    <div class="row menu-container" data-aos-delay="200">
+      <div class="col-lg-6 menu-item filter-starters"  *ngFor="let item of list">
+        <img src="../../../../assets/{{item.menu_Item_Image}}"class="menu-img" alt="">
+        <div class="menu-content">
+          <a  [routerLink]="['../show',item.menu_Item_Id]">{{item.menu_Item_Name}}</a><span>${{item.menu_Item_Price}}</span>
+        </div>
+        <div class="menu-ingredients">
+          {{item.menu_Item_Content}}
+        </div>
+      </div>
+    </div>
+
+  </div>
+ 
+  <style data-mode="SM" data-visited="true">@media (max-width: 767px) {
+    
+
+.search{
+    
+    border: solid  rgb(205, 164, 94) 2px;
+ border-radius: 50px;
+    color: #fff;
+
+    background: #0c0b09;
+    padding: 8px 25px;
+  
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    width:210px;
+    margin-top: 12px;
+
+}
+.formMenuItemSearch{
+
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.butsearch{
+  border: solid  rgb(205, 164, 94) 2px;
+ border-radius: 50px;
+  /*border: 2px solid #cda45e;*/
+ 
+  color: #fff;
+  padding: 8px 25px;
+  background-color: rgb(205, 164, 94);
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  transition: 0.3s;
+  margin-top: 32px;
+  width:100px;
+}
+.mat-radio-button.mat-primary.mat-radio-checked .mat-radio-outer-circle {
+    border-color: black;
+}
+.radio{
+    margin-top: 12px;
+    display: flex;
+    flex-direction: row;
+    display: flex;
+   border: 0px;
+}
+
+
+
+
+  }</style>
+ 
+ <ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+  <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>
+
+

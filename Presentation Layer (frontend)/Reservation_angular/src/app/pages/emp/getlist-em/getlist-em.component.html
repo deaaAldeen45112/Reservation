@@ -1,0 +1,84 @@
+
+
+
+<!--
+
+<p>getlist-emp works!</p>
+<div style="display:flex; flex-direction: column;" >
+    <p>getlist-menuitem works!</p>
+  
+    
+    <div  style="display: flex;
+    justify-self: center;
+    flex-direction: row;
+    justify-content: center;">
+    
+    
+    </div>
+      <button type="button" class="btn btn-primary" style="width: 100px;" routerLink='../add'>insert</button>
+    <table class="table table">
+    
+        <thead class="thead">
+          <tr>
+            <th scope="col">id</th>
+            <th scope="col">name</th>
+            <th scope="col">salary</th>
+            <th scope="col">role_id</th>
+          </tr>
+        </thead>
+        <tbody >
+          <tr *ngFor="let item of list">
+            <td>{{item.employee_Id}}</td>
+            <td>{{item.name}}</td>
+            <td>{{item.salary}}</td>
+            <td>{{item.role_id}}</td>
+            <a class="btn btn-success" [routerLink]="['../show',item.employee_Id]" role="button">show</a>
+            <a  class="btn btn-primary" [routerLink]="['../edit',item.employee_Id]" role="button">edit</a>
+            <button type="button" class="btn btn-danger" (click)="DeleteEmployee(item.employee_Id)">delete</button>  
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+
+
+-->
+
+
+
+
+<div class=" content">
+  <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+   <div class=" row">
+    <div class=" col-md-12">
+      <div class=" card">
+        <div class=" card-header">
+          <h4 class=" card-title">Employee Table</h4>
+        </div>
+        <div class=" card-body">
+          <div class=" table-responsive">
+            <table class=" table tablesorter" id="">
+              <thead class=" text-primary">
+                <tr>
+                  <th>Name</th>
+                  <th>Salary</th>
+                  <th>RoleId</th>
+                  <th>Crud</th>
+                </tr>
+              </thead>
+              <tbody>
+                  <tr *ngFor="let item of list">
+                  <td>{{item.name}}</td>
+                  <td>{{item.salary}}</td>
+                  <td>{{item.role_id}}</td>
+                   <button type="button" class="btn btn-danger"  (click)="DeleteEmployee(item.employee_Id)">delete</button>        
+                  </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</div>
+

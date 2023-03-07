@@ -1,0 +1,33 @@
+/* Main view, move content down due to fixed navbar. */
+.main-wrapper {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	padding-top: 50px;
+}
+
+/* Container for a sidebar. */
+.sidebar-container {
+	height: 100%;
+	position: fixed;
+    padding: 0px;
+    margin-top: -50px;
+    padding-top: 50px;
+	border-right: 1px solid #ddd;
+
+}
+
+.sidebar-header {
+	position: relative;
+	padding: 15px;
+	border-bottom: 1px solid #ddd;
+}
+
+/* Scrollable sidebar. */
+.sidebar {
+    height: 100%;
+	position: relative;
+	overflow-y: scroll;
+}

@@ -1,0 +1,49 @@
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+    <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>
+<div class=" content">
+    <div class=" row">
+        <div class=" col-md-12">
+            <div class=" col-md-8">
+                <div class=" card">
+                    <div class=" card-header">
+                        <h5 class=" title">Edit Table Data</h5>
+                    </div>
+                    <button mat-button (click)="backToList()" class=" btn btn-fill btn-danger" id="back"> Back
+                    </button>
+                    <div class=" card-body">
+                        <form [formGroup]="ContactUsInfoForm">
+                            <div class="row">
+                                <div class="col-md-6 form-group">
+                                    <input type="text" name="location" matInput formControlName="location"
+                                        class="form-control" #location placeholder="location"
+                                        [(ngModel)]="contactUsInfo[0].location">
+                                </div>
+                                <div class="col-md-6 form-group mt-3 mt-md-0">
+                                    <input type="email" class="form-control" matInput formControlName="email"
+                                        name="email" #email placeholder="Email" [(ngModel)]="contactUsInfo[0].email">
+                                </div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <input type="text" class="form-control" matInput formControlName="phone" name="phone"
+                                    #phone placeholder="phone" [(ngModel)]="contactUsInfo[0].phone">
+                            </div>
+                            <div class="form-group mt-3">
+                                <input type="text" class="form-control" matInput formControlName="open_Hours"
+                                    name="open_Hours" #open_Hours placeholder="open_Hours"
+                                    [(ngModel)]="contactUsInfo[0].open_Hours">
+                            </div>
+                            <div class="form-group mt-3">
+                                <input type="text" class="form-control" matInput formControlName="open_Days"
+                                    name="open_Days" #open_Days placeholder="open_Days"
+                                    [(ngModel)]="contactUsInfo[0].open_Days">
+                            </div>
+                            <div class="text-center"><button type="submit" class=" btn btn-fill btn-danger"
+                                    (click)="UpdateContactUsInfo()">Update contact Us Info</button></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>

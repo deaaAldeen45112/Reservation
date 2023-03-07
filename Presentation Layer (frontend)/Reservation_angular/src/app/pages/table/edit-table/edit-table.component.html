@@ -1,0 +1,65 @@
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+    <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>
+<div class=" content">
+    <div class=" row">
+        <div class=" col-md-12">
+            <div class=" col-md-8">
+                <div class=" card">
+                    <div class=" card-header">
+                        <h5 class=" title">Edit Table Data</h5>
+                    </div>
+                    <button mat-button (click)="backToList()" class=" btn btn-fill btn-danger" id="back"> Back
+                    </button>
+                    <div class=" card-body">
+                        <form #EditTableForm="ngForm" class="form" (ngSubmit)="UpdateTable(EditTableForm)">
+                            <div class=" row">
+                                <div class=" col-md-12">
+                                    <div class=" form-group">
+                                        <label> Chairs </label>
+                                        <mat-form-field>
+                                            <input class="form-control" type="number" #max_Person="ngModel" matInput
+                                                [(ngModel)]="table.max_Person" name="max_Person" />
+                                        </mat-form-field>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class=" row">
+                                <div class=" col-md-6">
+                                    <div class=" form-group">
+                                        <label> Image </label>
+                                        <input type="file" #file placeholder="Choose Image" accept="image/*"
+                                            (change)="uploadImage(file.files)">
+                                        <button class=" btn btn-fill btn-danger" style="margin-left:25px;"> Upload Image
+                                        </button>
+                                    </div>
+
+                                </div>
+                                <div class=" col-md-12">
+                                    <div class=" form-group">
+                                        <img [src]="image" width="250px" height="250px">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" row">
+                                <div class="col-md-12">
+                                    <div class=" form-group">
+                                        <label> Details </label>
+                                        <mat-form-field>
+                                            <textarea mat class="form-control" cols="200" rows="4" #details="ngModel"
+                                                matInput [(ngModel)]="table.details" name="details" required></textarea>
+                                        </mat-form-field>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" card-footer">
+                                <button class=" btn btn-fill btn-danger" button type="submit">Save</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>

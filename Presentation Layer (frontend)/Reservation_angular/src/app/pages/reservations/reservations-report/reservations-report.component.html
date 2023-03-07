@@ -1,0 +1,45 @@
+<div  class="dialog-container">
+<h2 mat-dialog-title>Reservations Report</h2>
+<mat-dialog-content class="mat-typography">
+    <label>Report OF Month / Year</label>
+    <input type="month" #FilterReport [(ngModel)]="filterDate">
+    <button type="submit" (click)="ReportFilter()">Filter</button>
+    <button (click)="Clear()" #clear>Clear</button>
+    <button type="button" label="PDF" (click)="DownloadReport()">Generate Report</button>
+    <div class="col-md-12">
+        <div class="card card-plain">
+          <div class="card-header">
+            <h4 class="card-title">Reservations</h4>
+          
+          </div>
+          <div class="card-body">
+            <div class="table-responsive">
+              <table class="table tablesorter">
+                <thead class="text-primary">
+                  <tr>
+                    <th>Table Id</th>
+                    <th>Reservation From</th>
+                    <th>Reservation To</th>
+                    <th>Reservation Status</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let data of reservationArr let i=index">
+                    <td>{{data.table_Id}}</td>
+                    <td>{{data.reservation_From |date:'short':'IST'}}</td>
+                    <td>{{data.reservation_To |date:'short':'IST'}}</td>
+                    <td>{{data.res_Status}}</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+    <button mat-button mat-dialog-close>Cancel</button>
+    <button mat-button [mat-dialog-close]="true" cdkFocusInitial>Install</button>
+</mat-dialog-actions>
+
+</div>

@@ -1,0 +1,51 @@
+<ngx-spinner
+  bdColor="rgba(51,51,51,0.8)"
+  size="medium"
+  color="#fff"
+  type="ball-scale-multiple">
+  <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>
+<div class=" content">
+    <button  routerLink='../AddTable'  class=" btn btn-danger">Add
+        Table</button>
+
+    <div class=" row">
+        <div class=" col-md-12">
+            <div class=" col-md-12">
+                <div class=" card card-plain">
+                    <div class=" card-header">
+                        <div class="flex-container">
+                            
+                            <h4 class=" card-title">Resturant Tables</h4>
+                          </div>
+                    </div>
+                    <div class=" card-body">
+                        <div class=" table-responsive">
+                            <table class=" table tablesorter" id="">
+                                <thead class=" text-primary">
+                                    <tr>
+                                        <th>id</th>
+                                        <th>chairs</th>
+                                        <th>Details</th>
+                                        <th>Image</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr *ngFor="let data of tables; let i = index">
+                                        <td>{{data.table_Id}}</td>
+                                        <td>{{data.max_Person}}</td>
+                                        <td>{{data.details}}</td>
+                                        <td><img [src]="images[i]" width="150"
+                                                height="150"></td>
+                                        <td><button mat-button (click)="EditTable(data.table_Id)" class=" btn btn-fill btn-danger">Edit</button></td>
+                                        <td><button (click)="DeleteTable(data.table_Id)" class=" btn btn-fill btn-danger">Delete</button></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

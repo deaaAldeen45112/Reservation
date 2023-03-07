@@ -1,0 +1,88 @@
+
+<!--
+
+
+
+  <p>getlist-payment works!</p>
+<p>getlist-menu-category works!</p>
+
+
+<div style="display:flex; flex-direction: column;" >
+    <p>getlist-menuitem works!</p>
+  
+    <div  style="display: flex;
+    justify-self: center;
+    flex-direction: row;
+    justify-content: center;">
+        </div>
+      <button type="button" class="btn btn-primary" style="width: 100px;" routerLink='../add'>insert</button>
+    <table class="table table">
+    
+        <thead class="thead">
+          <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+         
+          </tr>
+        </thead>
+        <tbody >
+          <tr *ngFor="let item of list">
+            <td>{{item.id}}</td>
+            <td>{{item.role_Name}}</td>
+             <button type="button" class="btn btn-danger" (click)="DeleteRole(item.id)">delete</button>  
+          </tr>
+        </tbody>
+      </table>
+    </div>
+-->
+
+
+
+
+
+
+
+
+
+
+
+    
+
+<div class=" content">
+  <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+   <div class=" row">
+    <div class=" col-md-12">
+      <div class=" card">
+        <div class=" card-header">
+          <h4 class=" card-title">Department Table</h4>
+        </div>
+        <div class=" card-body">
+          <div class=" table-responsive">
+            <table class=" table tablesorter" id="">
+              <thead class=" text-primary">
+                <tr>
+                  <th>Name</th>
+                  <th >Crud</th>  
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let item of list">
+                  <td>{{item.role_Name}}</td>
+                  <a  class="btn btn-primary" [routerLink]="['../edit',item.id]" role="button">edit</a>
+                  <button type="button" class="btn btn-danger" (click)="DeleteRole(item.id)" >delete</button>        
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+</div>
+<ngx-spinner
+  bdColor="rgba(51,51,51,0.8)"
+  size="medium"
+  color="#fff"
+  type="ball-scale-multiple">
+  <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>

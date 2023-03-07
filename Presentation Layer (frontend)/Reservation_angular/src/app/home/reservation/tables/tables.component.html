@@ -1,0 +1,87 @@
+<div class="container mt-4">
+    <div class="row">
+
+        <div class="col-md-9">
+            <h2 class="normal-title" style="border-bottom: #a58143 1px solid;">Resturant Tables</h2>
+        </div>
+        <div class="col-md-12 search-filters-area my-4 w-100 ng-untouched ng-pristine ng-valid">
+            <div class="row">
+                <div class="col-md-3 col-lg-3">
+                    <div class="row">
+                        <div class="col-md-12 mt-3" style=" border-right: #a58143 1px solid;">
+                            <div style="display: block" id="accordion-section">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="card">
+                                        <div class="card-header" id="headingTwo">
+                                            <h5 class="mb-0">
+                                                <button class="btn btn-link collapsed" type="button"
+                                                    data-toggle="collapse" data-target="#collapseTwo"
+                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                    Filter by Date
+                                                </button>
+                                            </h5>
+                                        </div>
+                                        <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo"
+                                            data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                
+                                                    <!-- <ejs-datetimepicker [step]="60" #filterFromDate
+                                                    [(ngModel)]="reservationFrom">
+                                                    </ejs-datetimepicker>
+                                                    <ejs-datetimepicker [step]="60" #filterToDate 
+                                                    [(ngModel)]="reservationTo">
+                                                    </ejs-datetimepicker>
+                                                 -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header" id="headingThree">
+                                            <h5 class="mb-0">
+                                                <button class="btn btn-link collapsed" type="button"
+                                                    data-toggle="collapse" data-target="#collapseThree"
+                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                    Filter By Number of People
+                                                </button>
+
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree" class="collapse show" aria-labelledby="headingThree"
+                                            data-parent="#accordionExample">
+                                            <div class="card-body">
+                                                <div class="card-body">
+                                                    <input type="number" #filterChairs [(ngModel)]="chair">
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <button (click)="Filter()" id="search">Search</button>
+                                    <button (click)="Clear()" id="clear">Clear Search</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-9 col-lg-9">
+                    <div class="section section-courses mt-1 mt-md-3 mb-2">
+                        <div class="d-flex flex-wrap">
+                            <app-tables-cards *ngFor="let card of tables" [tableData]="card" [table_Id]=" card.table_Id"
+                                [max_Person]="card.max_Person" [details]="card.details"
+                                [image_Location]="card.image_Location"
+                                [temproryReservations]="card.temproryReservations">
+                            </app-tables-cards>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<ngx-spinner
+  bdColor="rgba(51,51,51,0.8)"
+  size="medium"
+  color="#fff"
+  type="ball-scale-multiple">
+  <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>

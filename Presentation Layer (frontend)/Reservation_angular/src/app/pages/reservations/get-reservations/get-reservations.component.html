@@ -1,0 +1,57 @@
+<div class=" content">
+  <div class=" row">
+    <div class=" col-md-12">
+      <div class="col-md-12">
+        <div class="card card-plain">
+          <div class="card-header">
+            <div class="flex-container">
+              <h2 class="card-title">Reservations</h2>
+              <button mat-button (click)="openDialog()" class=" btn btn-fill btn-danger" id="report"> Generate
+                Report</button>
+            </div>
+          </div>
+        </div>
+        <div class="filter-container">
+          <h4>Filter :</h4>
+          <div class="filter">
+          <label>From Date (Date/Time):</label>
+          <input type="datetime-local" #filterFromDate [(ngModel)]="reservationFrom">
+          <label>To Date (Date/Time):</label>
+          <input type="datetime-local" #filterToDate [(ngModel)]="reservationTo">
+          <button (click)="FilterReservations()" class=" btn btn-fill btn-danger" id="search">Search</button>
+          <button (click)="Clear()" class=" btn btn-fill btn-danger" id="search">Clear</button>
+        </div>
+        </div>
+        <div class="card-body">
+          <div class="table-responsive">
+            <table class="table tablesorter">
+              <thead class="text-primary">
+                <tr>
+                  <th>Table Id</th>
+                  <th>Reservation From</th>
+                  <th>Reservation To</th>
+                  <th>Reservation Status</th>
+                  <th>Request State</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr *ngFor="let data of reservationArr let i=index">
+                  <td>{{data.table_Id}}</td>
+                  <td>{{data.reservation_From |date:'short':'IST'}}</td>
+                  <td>{{data.reservation_To |date:'short':'IST'}}</td>
+                  <td>{{data.res_Status}}</td>
+                  <td><select name="state" #state>
+                      <option>Choose Request State</option>
+                      <option value="ACCEPT">Accept</option>
+                      <option value="REJECT">Reject</option>
+                    </select></td>
+                  <td><button #update (click)="UpdateState(i,state.value)">Update Request</button></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

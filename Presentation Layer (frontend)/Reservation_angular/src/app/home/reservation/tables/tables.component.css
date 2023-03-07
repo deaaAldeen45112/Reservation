@@ -1,0 +1,77 @@
+.container {
+  max-width: 1200px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -6px;
+  margin-left: -39px;
+  margin-bottom: 50px;
+}
+
+element.style {
+  border-left: #a58143 1px solid;
+  padding: inherit;
+}
+h2,
+.h2 {
+  margin-bottom: 10px;
+  margin-top: revert;
+  margin-left: 260px;
+  line-height: 1.2;
+}
+#accordion-section,
+.accordion {
+  background-color: #a58143;
+}
+
+.card .card-header:not([data-background-color]) {
+  background-color: #a37f42;
+}
+.card-body {
+  background-color: #0c0b09;
+  padding: 1.25rem;
+}
+.btn-link {
+  padding: 0.5rem 0.7rem;
+  background: transparent;
+  font: initial;
+  font-weight: 600;
+  text-decoration-line: none;
+  color: #0c0b09;
+}
+.e-input-group:not(.e-success):not(.e-warning):not(.e-error):not(.e-float-icon-left),
+.e-input-group.e-float-icon-left:not(.e-success):not(.e-warning):not(.e-error)
+  .e-input-in-wrap,
+.e-input-group.e-control-wrapper:not(.e-success):not(.e-warning):not(.e-error):not(.e-float-icon-left),
+.e-input-group.e-control-wrapper.e-float-icon-left:not(.e-success):not(.e-warning):not(.e-error)
+  .e-input-in-wrap,
+.e-float-input.e-float-icon-left:not(.e-success):not(.e-warning):not(.e-error)
+  .e-input-in-wrap,
+.e-float-input.e-control-wrapper.e-float-icon-left:not(.e-success):not(.e-warning):not(.e-error)
+  .e-input-in-wrap {
+  border-color: rgba(0, 0, 0, 0.42);
+  background: wheat;
+}
+#search{
+  margin: 0 0 10px 8px;
+  border: 2px solid #cda45e;
+  color: #000;
+  padding: 8px 25px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: 0.3s;
+}
+#clear{
+  margin: 0 0 10px 17px;
+  border: 2px solid #cda45e;
+  color: #000;
+  padding: 8px 11px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: 0.3s;
+}

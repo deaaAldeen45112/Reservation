@@ -1,0 +1,61 @@
+
+
+<section style="margin-top: 60px !important; margin-bottom: 60px !important;">
+<div class="card">
+  <div class="row">
+      <div class="col-md-8 cart" style="background-color:#fff   !important;">
+          <div class="title">
+              <div class="row">
+                  <div class="col">
+                      <h4><b style=" color: #2a242485 !important;">Shopping Cart</b></h4>
+                  </div>
+                  <div class="col align-self-center text-right text-muted" style="color: black !important">{{countItems}} ITems</div>
+              </div>
+          </div>
+          <div class="row border-top border-bottom" *ngFor="let item of list">
+              <div class="row main align-items-center">
+                  <div class="col-2"><img class="img-fluid" src="../../../../assets/{{item.menu_Item_Image}}" alt="not found image"></div>
+                  <div class="col">
+                      <div class="row text-muted">{{item.menu_Item_Name}}</div>
+                      <div class="row">Cotton T-shirt</div>
+                  </div>
+                  <div class="col"> <a  class="border" style="color: black !important;">{{item.cart_Item_Quantity}}</a> </div>
+                  <div class="col" style="color:rgb(205, 164, 94)!important ;">&euro;{{item.cart_Item_Price}} <a class="close"  (click)="DeleteFromCartItemByCartItemId(item.cart_Item_Id)"  style="color:rgb(0, 0, 0) !important ; margin-left: 24px !important;"> &#10005;</a> </div>
+              </div>
+          </div>
+         
+             </div>
+      <div class="col-md-4 summary" style="background-color:#ffffff !important  ;">
+          <div>
+              <h5><b style="  color: #00000091;  ">Payment</b></h5>
+          </div>
+          <hr>
+          <div class="row">
+              <div class="col" style="padding-left:0 !important; ">Payment Method</div>
+          </div>
+          <form>
+            <div class="radio" style="margin-bottom: 30px !important;">
+              <mat-list role="list" >
+                <mat-list-item role="listitem">
+                    <mat-radio-button style="margin-right: 8px !important;" (click)="EnableAnddisable()" *ngFor="let x of seasons; let i = index" [checked]="i ==defaultSelected" [value]="i"   (change)="selection = $event.value">
+                     <span style="color:rgb(205, 164, 94)!important ;">  {{x}}   </span>    
+                    </mat-radio-button>
+                </mat-list-item>
+            </mat-list>
+            </div>
+              <p>CREDIT NUMBER</p> <input id="code"  [formControl]="creditNumber" placeholder="your credit number"  >
+          </form>
+          <div class="row" style="border-top: 1px solid rgba(0,0,0,.1) !important; padding: 2vh 0 !important;">
+              <div class="col">TOTAL PRICE</div>
+              <div class="col text-right" *ngIf="this.totalPri">&euro;{{this.totalPri}} </div>
+          </div> <button class="btn"(click)="RequestOrder()" style="border-radius: 50px !important;border: 2px solid rgb(205, 164, 94) !important  ;background-color: black !important ;
+              background-image: linear-gradient(to bottom left,black, black, black);
+          
+          ">Request Order</button>
+      </div>
+  </div>
+</div>
+</section>
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+    <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>

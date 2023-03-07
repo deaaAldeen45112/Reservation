@@ -1,0 +1,68 @@
+@import url('../../../../assets/index-share.css');
+@import url('../../../../assets/c.css');
+.search{
+  /*border: 2px solid #cda45e;*/
+  border-top-color: rgb(205, 164, 94);
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-right-color: #0c0b09;
+  /* border-right-style: solid; */
+  /* border-right-width: 2px; */
+  border-bottom-color: rgb(205, 164, 94);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  /* border-left-color: rgb(205, 164, 94); */
+  /* border-left-style: solid; */
+  /* border-left-width: 2px;*/
+  color: #fff;
+  background: #0c0b09;
+ 
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  transition: 0.3s;
+ 
+}
+.cart{
+
+  width: 128px;
+  padding: 8px 25px;
+}
+.comment{
+  width:300px;
+  padding: 0px;
+
+}
+.block-comment{
+display: flex;
+margin: 24px;}
+
+.butsearch{
+/*border: 2px solid #cda45e;*/
+border-top-color: rgb(205, 164, 94);
+border-top-style: solid;
+border-top-width: 2px;
+border-right-color:rgb(205, 164, 94); 
+border-right-style: solid;
+border-right-width: 2px; 
+border-bottom-color: rgb(205, 164, 94);
+border-bottom-style: solid;
+border-bottom-right-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-width: 2px;
+border-left-color: #0c0b09;
+ border-left-style: solid; 
+ border-left-width: 2px;
+color: #fff;
+
+padding: 8px 25px;
+background-color: rgb(205, 164, 94);
+text-transform: uppercase;
+font-size: 13px;
+font-weight: 500;
+letter-spacing: 1px;
+transition: 0.3s;
+width:148;
+}
+  

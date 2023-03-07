@@ -1,0 +1,21 @@
+<div class=" content">
+    <div class=" row">
+        <div class=" col-md-12">
+            <div class=" card">
+                <div class=" card-header">
+                    <h2 class=" title">About Us</h2>
+                </div>
+                <div class=" card-body">
+                    <h4>{{aboutUsArr[0]?.about_Us_Body}}</h4>
+                    <textarea #AboutUs rows="4" class=" form-control" cols="80" placeholder="New About Us"></textarea>
+
+                </div>
+                <div class=" col-md-4">
+                    <button class=" btn btn-danger btn-block" (click)="UpdateAboutUs(AboutUs.value)">
+                        Update
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

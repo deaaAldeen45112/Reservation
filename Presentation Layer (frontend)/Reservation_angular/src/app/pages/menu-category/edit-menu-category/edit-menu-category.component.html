@@ -1,0 +1,85 @@
+<!-- Write your comments here
+<p>
+
+
+
+    <form [formGroup]="editMenuCategory" (submit)="UpdateMenuCategory()">
+        <mat-form-field class="example-full-width">
+      
+        <input matInput formControlName="name" style=
+        "font-size: x-large;" placeholder="name"
+        [(ngModel)]="list.menu_Category_Name" >
+        </mat-form-field>
+        <mat-form-field class="example-full-width">
+            
+            <input matInput formControlName="content"style=
+            "font-size: x-large;" placeholder="content"
+            [(ngModel)]="list.menu_Category_Content"
+            >
+            </mat-form-field>
+            
+       
+    <input type="submit" />
+</p>
+ -->
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header"><h5 class=" title">Edit Category</h5></div>
+          <div class=" card-body">
+            <form  [formGroup]="editMenuCategory" >
+              <div class=" row">
+                <div class=" col-md-6 pr-md-1">
+                  <div class=" form-group">
+                    <label>Name</label>
+                    <input
+                    formControlName="name"
+                      class=" form-control"
+                      [(ngModel)]="list.menu_Category_Name"
+                      placeholder="Name"
+                      type="text"
+                     
+                    />
+                  </div>
+                </div>
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label>Content</label>
+                    <input
+                    [(ngModel)]="list.menu_Category_Content"
+                    formControlName="content"
+                      class=" form-control"
+                      placeholder="Content"
+                      type="text"
+                  
+                    />
+                  </div>
+                </div>
+                <div class=" col-md-6 pl-md-1">
+                  <div class=" form-group">
+                    <label>ParentId</label>
+                    <input
+                    [(ngModel)]="list.menu_Category_Parent_Id"
+                    formControlName="parentId"
+                      class=" form-control"
+                      placeholder="Content"
+                      type="text"
+                  
+                    />
+                  </div>
+                </div>
+
+
+              </div>
+            </form>
+          </div>
+          <div class=" card-footer">
+            <button class=" btn btn-fill btn-danger"  (click)="UpdateMenuCategory()"type="submit">Save</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

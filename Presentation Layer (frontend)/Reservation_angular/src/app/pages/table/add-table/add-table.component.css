@@ -1,0 +1,20 @@
+#back
+{
+    padding: 10px 24px;
+    margin-left: auto;
+}
+label{
+    font-size: 15px;
+}
+textarea{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top: 1px wheat solid;
+    border-left: 1px wheat solid;
+    width: 697px; 
+}
+#buttons
+{
+    margin-left: 200px;
+}
+@import url('../../../../assets/index-share.css');

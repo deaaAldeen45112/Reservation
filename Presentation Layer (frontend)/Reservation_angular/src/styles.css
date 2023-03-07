@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+ /*@import url(assets/bootstrap/css/bootstrap.min.css);*/
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle{
+    border-color:#cda45e;
+  }
+  
+  .mat-radio-button.mat-accent .mat-radio-inner-circle{
+    color:#cda45e;
+    background-color:#cda45e;
+  }
+  
+  .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element {
+      background-color:#cda45e;
+  }
+  .u-text-palette-2-base[_ngcontent-sac-c124], li.active[_ngcontent-sac-c124] > a.u-button-style.u-text-palette-2-base[_ngcontent-sac-c124], li.active[_ngcontent-sac-c124] > a.u-button-style.u-text-palette-2-base[class*="u-border-"][_ngcontent-sac-c124], a.u-button-style.u-text-palette-2-base[_ngcontent-sac-c124], a.u-button-style.u-text-palette-2-base[class*="u-border-"][_ngcontent-sac-c124] {
+    color: rgb(205, 164, 94) !important;
+}

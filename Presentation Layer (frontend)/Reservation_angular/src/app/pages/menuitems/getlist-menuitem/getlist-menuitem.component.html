@@ -1,0 +1,203 @@
+<!--
+
+
+<div style="display:flex; flex-direction: column;" >
+<p>getlist-menuitem works!</p>
+
+<div class="row" style="display:flex; flex-direction: column;     margin-right: 0px;
+margin-left: 0px;">
+  <div class="col">
+    <div ngbDropdown class="d-inline-block">
+      <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>Toggle dropdown</button>
+      <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+        <button ngbDropdownItem>Action - 1</button>
+        <button ngbDropdownItem>Another Action</button>
+        <button ngbDropdownItem>Something else is here</button>
+      </div>
+    </div>
+  </div>
+  
+
+
+
+<input type="search" id="form1" [formControl]="name"  class="form-control"placeholder="name" aria-label="Search" />
+<input type="search" id="form1" [formControl]="price1"  class="form-control" placeholder="price1" aria-label="Search" />
+<input type="search" id="form1" [formControl]="price2"  class="form-control" placeholder="price2" aria-label="Search" />
+
+<mat-list role="list">
+	<mat-list-item role="listitem" *ngFor="let x of seasons; let i = index">
+		<mat-radio-button color="primary" [checked]="i ==defaultSelected" [value]="i" (change)="selection = $event.value">
+			Item {{x}}
+		</mat-radio-button>
+	</mat-list-item>
+</mat-list>
+<mat-card style="margin-top: 1rem">
+	Currently selected: {{selection}}
+</mat-card>
+
+<div>Your favorite season is: {{favoriteSeason}}</div>
+<div  style="display: flex;
+justify-self: center;
+flex-direction: row;
+justify-content: center;">
+
+  <button class="btn btn-primary"  style="display: block; justify-self: center; width: 100px;" (click)="search()">search</button>
+
+</div>
+  <button type="button" class="btn btn-primary" style="width: 100px;" routerLink='../add'>insert</button>
+<table class="table table">
+
+    <thead class="thead">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">First</th>
+        <th scope="col">Last</th>
+        <th scope="col">Handle</th>
+      </tr>
+    </thead>
+    <tbody >
+      <tr *ngFor="let item of list">
+        <th scope="row"></th>
+        <td>{{item.menu_Item_Id}}</td>
+        <td>{{item.menu_Item_Name}}</td>
+        <td>{{item.menu_Item_Price}}</td>
+        <td>{{item.menu_Item_Image}}</td>
+   
+        <img src="C:\Users\user\Desktop\deaa\ss.png" alt="Flowers in Chania">
+
+        <a  class="btn btn-success" [routerLink]="['../show',item.menu_Item_Id]" role="button">show</a>
+        <a  class="btn btn-primary" [routerLink]="['../edit',item.menu_Item_Id]" role="button">edit</a>
+        <button type="button" class="btn btn-danger" (click)="deleteItem(item.menu_Item_Id)">delete</button>  
+       
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class=" content">
+  <div class=" row">
+    <div class=" col-md-12">
+      <div class=" card">
+        <div class=" card-header"><h5 class=" title">Search Box</h5></div>
+        <div class=" card-body">
+          <form>
+            
+            <div class=" row">
+              <div class=" col-md-6 pr-md-1">
+                <div class=" form-group">
+                  <label>Name</label>
+                  <input
+                  [formControl]="name" 
+                    class="form-control"
+                    placeholder="Name"
+                    type="text"
+                    value="Mike"
+                  />
+                </div>
+              </div>
+              <div class=" col-md-6 pl-md-1">
+                <div class=" form-group">
+                  <label>Price from</label>
+                  <input
+                  [formControl]="price1" 
+                    class=" form-control"
+                    placeholder="Price from"
+                    type="text"
+                    value="Andrew"
+                  />
+                </div>
+                
+              </div>
+              <div class=" col-md-6 pl-md-1">
+                <div class=" form-group">
+                  <label>Price to</label>
+                  <input
+                  [formControl]="price2" 
+                    class=" form-control"
+                    placeholder="Price to"
+                    type="text"
+                    value="Andrew"
+                  />
+                </div>
+              </div>
+            </div>
+           
+          </form>
+        </div>
+        <div class=" card-footer">
+          <button class=" btn btn-fill btn-danger"  (click)="search()"  type="submit">search</button>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+
+
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header">
+            <h4 class=" card-title">MenuItem Table</h4>
+          </div>
+          <div class=" card-body">
+            <div class=" table-responsive">
+              <table class=" table tablesorter" id="">
+                <thead class=" text-primary">
+                  <tr>
+
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Create Date</th>
+                    <th>Image</th>
+                    <th>Crud</th>
+               
+                   
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of list">
+                    <td>{{item.menu_Item_Name}}</td>
+                    <td>{{item.menu_Item_Price}}</td>
+                    <td>{{item.menu_Item_Createdat}}</td>
+                    <img src="../../../../assets/{{item.menu_Item_Image}}"  class="menu-img" alt=""  style="width:100px;height:100px;">
+                <td>
+                    <a  class="btn btn-primary" [routerLink]="['../edit',item.menu_Item_Id]" role="button">edit</a>
+                    <button type="button" class="btn btn-danger"(click)="deleteItem(item.menu_Item_Id)" >delete</button>        
+                  </td>
+                  </tr>
+               
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </div>
+
+

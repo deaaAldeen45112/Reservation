@@ -1,0 +1,47 @@
+<p>reservation-now works!</p>
+
+
+<div class=" content">
+    <div class=" row">
+      <div class=" col-md-12">
+     
+      </div>
+      </div>
+  
+      <div class=" row">
+        <div class=" col-md-12">
+          <div class=" card">
+            <div class=" card-header">
+              <h4 class=" card-title">Reservation now</h4>
+            </div>
+            <div class=" card-body">
+              <div class=" table-responsive">
+                <table class=" table tablesorter" id="">
+                  <thead class=" text-primary">
+                    <tr>
+  
+                   <th>Table Id</th>
+                  <th>Reservation From</th>
+                  <th>Reservation To</th>
+                  <th>Reservation Status</th>
+                
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let item of list">
+                        <td>{{item.table_Id}}</td>
+                        <td>{{item.reservation_From |date:'short':'IST'}}</td>
+                        <td>{{item.reservation_To |date:'short':'IST'}}</td>
+                        <td>{{item.res_Status}}</td>
+                    </tr>
+  
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+    </div>
+  
+  

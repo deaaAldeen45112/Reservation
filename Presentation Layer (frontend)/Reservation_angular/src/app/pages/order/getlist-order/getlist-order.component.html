@@ -1,0 +1,84 @@
+
+
+<div class=" content">
+  <div class=" row">
+    <div class=" col-md-12">
+      <div class=" card">
+        <div class=" card-header"><h5 class=" title">Search Box</h5></div>
+        <div class=" card-body">
+          <form>
+            
+   <mat-form-field appearance="fill">
+    <mat-label>from date</mat-label>
+    <input matInput [matDatepicker]="picker" [formControl]="from">
+    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+    <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+
+    <mat-form-field appearance="fill">
+    <mat-label>to date</mat-label>
+    <input matInput [matDatepicker]="picker1" [formControl]="to">
+    <mat-datepicker-toggle matSuffix  [for]="picker1"></mat-datepicker-toggle>
+    <mat-datepicker  #picker1></mat-datepicker>
+  
+  </mat-form-field>
+
+           
+          </form>
+        </div>
+        <div class=" card-footer">
+          <button class=" btn btn-fill btn-danger"  (click)="search()"  type="submit">search</button>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+
+
+    <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header">
+            <h4 class=" card-title">Order Table</h4>
+          </div>
+          <div class=" card-body">
+            <div class=" table-responsive">
+              <table class=" table tablesorter" id="">
+                <thead class=" text-primary">
+                  <tr>
+
+                    <th>OrderId</th>
+                    <th>SccessStatus</th>
+                    <th>CustomerId</th>
+                    <th>WaiterId</th>
+                    <th>PaymentStatus</th>
+                    <th>Crud</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let item of list">
+                    <td>{{item.order_Id}}</td>
+                    <td>{{item.access_Status}}</td>
+                    <td>{{item.customer_Id}}</td>
+                    <td>{{item.waiter_Id}}</td>
+                    <td>{{item.payment_Status}}</td>
+                    <button type="button" class="btn btn-danger"   (click)="DeleteOrder(item.order_Id)">delete</button>   
+                      <div ngbDropdown class="d-inline-block">
+                      <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle >select waiter</button>
+                      <div ngbDropdownMenu aria-labelledby="dropdownBasic1" >
+                        <button ngbDropdownItem *ngFor="let it of listAvaWaiter" (click)="ChangeSortOrder(item.order_Id,it.waiter_Id)">{{it.waiter_Id}}</button>
+                      </div>
+                    </div>  
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </div>
+

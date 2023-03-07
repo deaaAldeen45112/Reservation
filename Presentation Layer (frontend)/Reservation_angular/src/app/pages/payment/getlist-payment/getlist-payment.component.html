@@ -1,0 +1,109 @@
+
+
+<!--
+
+
+<p>getlist-payment works!</p>
+<p>getlist-menu-category works!</p>
+
+
+<div style="display:flex; flex-direction: column;" >
+    <p>getlist-menuitem works!</p>
+  
+    <div  style="display: flex;
+    justify-self: center;
+    flex-direction: row;
+    justify-content: center;">
+    
+      <button class="btn btn-primary"  style="display: block; justify-self: center; width: 100px;" (click)="search()">search</button>
+    
+    </div>
+      <button type="button" class="btn btn-primary" style="width: 100px;" routerLink='../add'>insert</button>
+    <table class="table table">
+    
+        <thead class="thead">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+          </tr>
+        </thead>
+        <tbody >
+          <tr *ngFor="let item of list">
+            <th scope="row"></th>
+            <td>{{item.payment_Id}}</td>
+            <td>{{item.payment_Price}}</td>
+            <td>{{item.payment_Currncy}}</td>
+            <td>{{item.payment_Date}}</td>
+            <a class="btn btn-success" [routerLink]="['../show',item.payment_Id]" role="button">show</a>
+            <a  class="btn btn-primary" [routerLink]="['../edit',item.payment_Id]" role="button">edit</a>
+            <button type="button" class="btn btn-danger" (click)="DeletePaymentByPaymentId(item.payment_Id)">delete</button>  
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  
+-->
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class=" content">
+    <button type="button" class="btn btn-primary"  routerLink='../add'>insert</button>
+     <div class=" row">
+      <div class=" col-md-12">
+        <div class=" card">
+          <div class=" card-header">
+            <h4 class=" card-title">Payment Table</h4>
+          </div>
+          <div class=" card-body">
+            <div class=" table-responsive">
+              <table class=" table tablesorter" id="">
+                <thead class=" text-primary">
+                  <tr>
+
+                    <th>Price</th>
+                    <th>Create Date</th>
+                    <th>crud</th>
+               
+                   
+                  </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of list">
+                    <td>{{item.payment_Price}}</td>
+                    <td>{{item.payment_Date|date}}</td>
+                     <button type="button" class="btn btn-danger"  (click)="DeletePaymentByPaymentId(item.payment_Id)">delete</button>        
+                    </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </div>
+

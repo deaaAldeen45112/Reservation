@@ -1,0 +1,12 @@
+.dialog-container {
+    background-color: #1e1e2d;
+    width: 1000px;
+    display: block;
+    padding: 6px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    overflow: auto;
+    outline: 0;
+    min-height: inherit;
+    max-height: inherit;
+}

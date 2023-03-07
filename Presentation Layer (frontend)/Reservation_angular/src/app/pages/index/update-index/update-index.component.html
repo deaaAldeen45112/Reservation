@@ -1,0 +1,64 @@
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+    <p style="font-size: 20px; color: white">Loading...</p>
+</ngx-spinner>
+<div class=" content">
+    <div class=" row">
+        <div class=" col-md-12">
+            <div class=" col-md-8">
+                <div class=" card">
+                    <div class=" card-header">
+                        <h2 class=" title">Edit Index</h2>
+                    </div>
+                    <button mat-button (click)="backToList()" class=" btn btn-fill btn-danger" id="back"> Back
+                    </button>
+                    <div class=" card-body">
+                        <form #EditIndexForm="ngForm" class="form" (ngSubmit)="UpdateIndex(EditIndexForm)">
+                            <div class=" row">
+                                <div class=" col-md-12">
+                                    <div class=" form-group">
+                                        <label> Welcome Sentence </label>
+                                        <mat-form-field>
+                                            <input class="form-control" type="text" #welcome_sentence="ngModel" matInput
+                                                [(ngModel)]="index[0].welcome_sentence" name="welcome_sentence" />
+                                        </mat-form-field>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" row">
+                                <div class=" col-md-6">
+                                    <div class=" form-group">
+                                        <label> Image </label>
+                                        <input type="file" #file placeholder="Choose Image" accept="image/*"
+                                            (change)="uploadImage(file.files)">
+                                        <button class=" btn btn-fill btn-danger" style="margin-left:25px;"> Upload Image
+                                        </button>
+                                    </div>
+
+                                </div>
+                                <div class=" col-md-12">
+                                    <div class=" form-group">
+                                        <img [src]="image" width="250px" height="250px">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" row">
+                                <div class="col-md-12">
+                                    <div class=" form-group">
+                                        <label> Video Link </label>
+                                        <mat-form-field>
+                                            <input class="form-control" type="text" #video_link="ngModel" matInput
+                                                [(ngModel)]="index[0].video_link" name="video_link"/>
+                                        </mat-form-field>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" card-footer">
+                                <button class=" btn btn-fill btn-danger" button type="submit">Save</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
