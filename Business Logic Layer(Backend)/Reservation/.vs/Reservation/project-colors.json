@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "152def33-6ccd-4af5-a272-e49d415c8473": {
+      "ProjectGuid": "152def33-6ccd-4af5-a272-e49d415c8473",
+      "DisplayName": "Reservation.API",
+      "ColorIndex": 0
+    },
+    "1f213183-0801-4ba7-a741-fd6a887491e2": {
+      "ProjectGuid": "1f213183-0801-4ba7-a741-fd6a887491e2",
+      "DisplayName": "Reservation.Core",
+      "ColorIndex": 1
+    },
+    "30676c93-d96f-47aa-a45f-371b7ca5a92e": {
+      "ProjectGuid": "30676c93-d96f-47aa-a45f-371b7ca5a92e",
+      "DisplayName": "Reservation.Infra",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,50 @@
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.deps.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.deps.json
+C:\Users\user\Desktop\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.deps.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.deps.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.deps.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Core\obj\Debug\netcoreapp3.1\Reservation.Core.pdb

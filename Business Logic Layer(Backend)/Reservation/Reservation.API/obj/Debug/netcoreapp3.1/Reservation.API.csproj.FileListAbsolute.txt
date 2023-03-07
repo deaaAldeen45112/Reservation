@@ -1,0 +1,480 @@
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.exe
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.deps.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.Manifest.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.xml
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Reservation.API.styles.css
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.RazorTargetAssemblyInfo.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CopyComplete
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.genruntimeconfig.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.StaticWebAssets.xml
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.exe
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.deps.json
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.json
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CopyComplete
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.genruntimeconfig.cache
+C:\Users\user\Desktop\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.StaticWebAssets.xml
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.exe
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.deps.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CopyComplete
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.genruntimeconfig.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.StaticWebAssets.xml
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.exe
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.deps.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CopyComplete
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.genruntimeconfig.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.StaticWebAssets.xml
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.exe
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.deps.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.runtimeconfig.dev.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.AssemblyInfo.cs
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\staticwebassets\Reservation.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.csproj.CopyComplete
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.API\obj\Debug\netcoreapp3.1\Reservation.API.genruntimeconfig.cache

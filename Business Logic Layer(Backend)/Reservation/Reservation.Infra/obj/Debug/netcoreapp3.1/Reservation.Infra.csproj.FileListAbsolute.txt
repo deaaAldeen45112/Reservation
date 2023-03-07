@@ -1,0 +1,80 @@
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.deps.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CopyComplete
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\Toshiba\source\repos\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.genruntimeconfig.cache
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.deps.json
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.json
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.dev.json
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.genruntimeconfig.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.deps.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.dev.json
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\deaa\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.genruntimeconfig.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.deps.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.dev.json
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.genruntimeconfig.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.deps.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.runtimeconfig.dev.json
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\bin\Debug\netcoreapp3.1\Reservation.Core.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.AssemblyInfo.cs
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.csproj.CopyComplete
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.dll
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.pdb
+C:\Users\user\Desktop\مواد\الحاسوب\software\fullstack\project\C#NetPro resveration project\finish-20221010T202942Z-001\finish\Reservation\Reservation.Infra\obj\Debug\netcoreapp3.1\Reservation.Infra.genruntimeconfig.cache
