@@ -16,3 +16,6 @@ the admin do operation (create,delete,update,read)  on waiter, accountant, table
 customer reserve the table, select food from menu, order food, pay the price of food by cash or online. 
 <br>
 waiter take food to customer and take the money if customer selected paying by cash.
+
+https://user-images.githubusercontent.com/99683685/223861173-50239250-b2a0-4e14-8645-0e12229451e2.mp4
+
