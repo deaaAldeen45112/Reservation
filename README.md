@@ -7,6 +7,7 @@ and I used onion architecture to build the Business Logic(Backend).
 I used rest api architectural style.
 # Technology
 I used oracle language to Database, c# (asp.net) to Business Logic, and angualr(typescript) to Presentation .
+I used jwt token .
 <br>
 # OverView
 Application has types of user are admin, waiter, customer, accountant.<br>
