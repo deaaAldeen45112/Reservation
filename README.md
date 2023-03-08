@@ -10,9 +10,8 @@ I used oracle language to Database, c# (asp.net) to Business Logic, and angualr(
 <br>
 # OverView
 Application has types of user are admin, waiter, customer, accountant.<br>
-the admin do operation (create,delete,update,read)  on waiter, accountant, table, menu, category.
-the admin assign tasks for waiter.
-<br>
-waiter take food to customer.
+the admin do operation (create,delete,update,read)  on waiter, accountant, table, menu, category and assign tasks for waiter.
 <br>
 customer reserve the table, select food from menu, order food, pay the price of food by cash or online. 
+<br>
+waiter take food to customer and take the money if customer selected paying by cash.
