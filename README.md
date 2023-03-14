@@ -1,5 +1,5 @@
 # Reservation
-Reservation is a web application to help people book tables in restaurants and order food
+Reservation is a web application to help people book tables in restaurants and order food .
 # Architecture
 I used the three-tier layer, which is divided into the first layer is Database , the second layer is Business Logic and the third layer is Presentation
 and I used onion architecture to build the Business Logic(Backend).
